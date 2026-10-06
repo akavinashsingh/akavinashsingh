@@ -12,8 +12,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akavinashsingh.github.io/profile-card/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akavinashsingh@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=akavinashsingh&style=for-the-badge&color=2E9EF7)
-
 </div>
 
 ---
